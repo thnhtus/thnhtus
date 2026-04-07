@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Freddy
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
   <img height="150" src="https://raw.githubusercontent.com/thnhtus/thnhtus/output/snake.svg" />
 
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdncHNtZjdrMGt5aTM4Nm41bnhzZXVmdWN0dHlvNWY3Z2txYng2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8EmeieJAGjvUI/giphy.gif" />
