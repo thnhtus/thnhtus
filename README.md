@@ -1,14 +1,10 @@
 ### Hi there 👋, I'm Freddy
 
-<br clear="both">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img height="150" src="https://raw.githubusercontent.com/thnhtus/thnhtus/output/snake.svg" />
 
-<img align="right" height="209" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdncHNtZjdrMGt5aTM4Nm41bnhzZXVmdWN0dHlvNWY3Z2txYng2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8EmeieJAGjvUI/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/thnhtus/thnhtus/output/snake.svg" alt="Snake animation" />
-
-###
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdncHNtZjdrMGt5aTM4Nm41bnhzZXVmdWN0dHlvNWY3Z2txYng2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8EmeieJAGjvUI/giphy.gif" />
+</div>
 
 ###
 <!--
